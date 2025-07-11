@@ -1,0 +1,4 @@
+flask
+torch==2.3.0      # 或你本地版本
+torchvision==0.18.0
+pillow
